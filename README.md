@@ -14,6 +14,8 @@ Check your hair before a call, pin a floating camera over a screen recording, or
 ![No dependencies](https://img.shields.io/badge/dependencies-none-2EA44F)
 ![License: MIT](https://img.shields.io/badge/license-MIT-lightgrey)
 
+[**⬇ Download for Mac**](https://github.com/knnthgms/looking-glass/releases/latest) (Apple silicon, macOS 14+)
+
 <img src="docs/drawer.png" width="760" alt="The pinned mirror window with its settings drawer open on the Camera tab">
 
 </div>
